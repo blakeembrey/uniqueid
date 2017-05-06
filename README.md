@@ -1,5 +1,7 @@
 # uniqueid [![NPM version](https://badge.fury.io/js/uniqueid.svg)](http://badge.fury.io/js/uniqueid)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/uniqueid.svg)](https://greenkeeper.io/)
+
 
 > Generate a unique sequential ID. Optionally pass a prefix, suffix, or multiplier.
 
